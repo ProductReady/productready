@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://productready.dev/assets/icon/icon.svg" alt="ProductReady Logo" width="120" height="120">
+<img src="https://productready.dev/assets/icons/icon.svg" alt="ProductReady Logo" width="120" height="120">
 
 # ProductReady
 
